@@ -1,0 +1,17 @@
+PV1_17.png
+size:3622,2360
+filter:Linear,Linear
+scale:0.5
+ambient
+bounds:0,1061,174,118
+back
+bounds:0,1180,1863,1180
+hand1
+bounds:178,17,647,494
+hand2
+bounds:0,236,806,943
+machine1
+bounds:1864,1180,1758,1180
+machine2
+bounds:1759,0,1636,1180
+1
