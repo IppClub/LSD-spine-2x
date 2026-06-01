@@ -1,5 +1,5 @@
 loopTowerA.png
-size:4096,3806
+size:4095,3806
 filter:Linear,Linear
 bluelight
 bounds:3302,3144,226,115
@@ -39,7 +39,7 @@ rotate:90
 corner
 bounds:1104,1275,433,334
 cornor2
-bounds:3132,908,211,289
+bounds:3133,908,211,289
 offsets:1,1,213,291
 cornor3
 bounds:1,366,549,291
@@ -59,7 +59,7 @@ crack5
 bounds:742,1,444,507
 rotate:90
 crack6
-bounds:3506,474,280,271
+bounds:3506,473,280,271
 offsets:1,1,282,273
 crackbig1
 bounds:2543,447,173,264
@@ -84,7 +84,7 @@ bounds:1104,739,490,643
 offsets:1,1,492,645
 rotate:90
 fence
-bounds:2903,485,234,519
+bounds:2904,484,234,519
 offsets:1419,0,1653,776
 rotate:90
 fenceshadow
@@ -114,13 +114,13 @@ pipe1
 bounds:551,245,190,201
 offsets:1,1,192,203
 pipe2
-bounds:2836,883,295,314
+bounds:2837,883,295,314
 offsets:1,1,297,316
 pipe3
 bounds:2933,2930,970,199
 offsets:1,1,971,201
 pipe4
-bounds:3061,644,1040,1034
+bounds:3060,644,1040,1034
 offsets:0,0,2949,1785
 rotate:270
 pipe5

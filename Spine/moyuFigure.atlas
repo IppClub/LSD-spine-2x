@@ -13,7 +13,7 @@ offsets:0,53,215,329
 body_12
 bounds:1,85,263,323
 body_13
-bounds:3142,809,312,692
+bounds:3141,809,312,692
 rotate:90
 body_14
 bounds:3987,2295,81,140
@@ -31,15 +31,15 @@ body_19
 bounds:1660,1109,372,1062
 rotate:90
 body_2
-bounds:19,1453,392,172
+bounds:18,1453,392,172
 body_20
 bounds:3987,2426,108,61
 offsets:0,1,108,62
 body_21
-bounds:2209,290,366,677
+bounds:2209,291,366,677
 rotate:90
 body_22
-bounds:412,1451,222,174
+bounds:411,1451,222,174
 body_23
 bounds:2955,56,581,586
 rotate:180
@@ -95,7 +95,7 @@ bounds:1285,1556,171,69
 body_7
 bounds:3987,2261,67,43
 body_8
-bounds:635,1460,149,165
+bounds:634,1460,149,165
 body_9
 bounds:3987,2487,99,147
 1

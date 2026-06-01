@@ -10,7 +10,7 @@ rotate:90
 item12
 bounds:221,109,71,77
 item13
-bounds:265,482,29,74
+bounds:270,549,29,74
 item14
 bounds:218,612,98,83
 rotate:270
@@ -18,12 +18,11 @@ item15
 bounds:258,1340,84,45
 rotate:90
 item16
-bounds:2,46,60,80
-rotate:90
+bounds:2,26,60,80
 item17
 bounds:247,1034,56,65
 item18
-bounds:249,2,51,51
+bounds:250,2,51,51
 item19
 bounds:2,481,115,146
 rotate:90
@@ -33,9 +32,9 @@ rotate:270
 item20
 bounds:238,422,66,58
 item21
-bounds:85,4,57,51
+bounds:85,3,57,51
 item22
-bounds:249,55,52,52
+bounds:250,55,52,52
 item23
 bounds:150,475,142,119
 offsets:83,20,249,139
@@ -59,7 +58,7 @@ bounds:242,1221,53,117
 item29
 bounds:247,928,47,104
 item3
-bounds:145,38,102,46
+bounds:146,37,102,46
 item30
 bounds:242,1102,53,117
 item31
@@ -85,7 +84,8 @@ item7
 bounds:221,188,108,68
 rotate:90
 item8
-bounds:2,6,65,38
+bounds:264,482,65,38
+rotate:90
 item9
 bounds:2,413,66,234
 rotate:90

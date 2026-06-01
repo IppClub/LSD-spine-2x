@@ -1,5 +1,5 @@
 PV1_21.png
-size:3675,1180
+size:3676,1180
 filter:Linear,Linear
 scale:0.5
 alarm
@@ -17,7 +17,7 @@ shadow
 bounds:1864,235,662,945
 offsets:279,0,941,945
 weaponlight
-bounds:3152,540,523,640
+bounds:3153,540,523,640
 offsets:0,396,1220,1180
 rotate:180
 1

@@ -5,7 +5,7 @@ scale:0.5
 body_0
 bounds:1126,31,314,173
 body_1
-bounds:252,5,150,135
+bounds:251,4,150,135
 offsets:0,10,173,145
 body_10
 bounds:165,2855,71,55
@@ -27,7 +27,7 @@ offsets:0,0,45,89
 body_18
 bounds:769,29,307,114
 body_19
-bounds:1,1979,111,146
+bounds:1,1978,111,146
 body_2
 bounds:1,2116,240,273
 offsets:0,46,240,319

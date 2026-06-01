@@ -74,7 +74,7 @@ toufa15
 bounds:3153,432,442,703
 rotate:90
 toufa2
-bounds:1,833,84,143
+bounds:1,831,84,143
 toufa3
 bounds:1,1956,140,166
 toufa4
@@ -83,7 +83,7 @@ toufa5
 bounds:1,1308,102,187
 offsets:0,3,102,190
 toufa6
-bounds:33,747,103,220
+bounds:33,746,103,220
 toufa7
 bounds:1,1038,101,304
 offsets:1,2,102,306
@@ -100,11 +100,11 @@ tousha2
 bounds:2391,17,326,242
 rotate:180
 wan1
-bounds:65,1040,76,93
+bounds:66,1038,76,93
 wan2
 bounds:96,3338,36,85
 wandai1
-bounds:1,695,111,137
+bounds:1,694,111,137
 wandai2
 bounds:1,2799,60,76
 xiongpian
@@ -129,7 +129,7 @@ youyan4
 bounds:88,1542,58,38
 offsets:0,0,61,38
 youyan5
-bounds:60,724,72,43
+bounds:60,723,72,43
 zhui1
 bounds:113,3248,23,36
 zhui2
@@ -139,7 +139,7 @@ bounds:112,3181,23,53
 zhui4
 bounds:106,3285,30,52
 zhui5
-bounds:78,1134,42,34
+bounds:79,1132,42,34
 zui
 bounds:256,639,67,45
 zuobi1
@@ -155,7 +155,7 @@ bounds:3163,698,360,1273
 zuotuipian1
 bounds:1,243,153,66
 zuotuipian2
-bounds:1,977,120,62
+bounds:1,975,120,62
 zuotuipian3
 bounds:1928,31,176,162
 zuotuipian4
@@ -163,7 +163,7 @@ bounds:3637,370,164,161
 zuotuipian5
 bounds:3470,97,165,414
 zuoyan
-bounds:1,665,79,29
+bounds:1,664,79,29
 
 niniliteFigure_2.png
 size:1745,1399

@@ -19,7 +19,7 @@ bounds:591,48,133,136
 fire7
 bounds:976,68,112,116
 fire8
-bounds:3650,41,131,150
+bounds:3651,40,131,150
 fire9
 bounds:855,63,120,121
 shadow
@@ -40,7 +40,7 @@ rotate:90
 tou1_4
 bounds:3685,1287,57,78
 tou1_5
-bounds:3856,73,238,250
+bounds:3857,71,238,250
 tou1_6
 bounds:3187,57,168,403
 offsets:0,0,196,403
